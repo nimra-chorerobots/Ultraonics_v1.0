@@ -3,8 +3,7 @@
 This repository demonstrates a **clear and interpretable ultrasonic perception layer** for a mobile robot.  
 It visualizes how **24 ultrasonic sensors** perceive obstacles around the robot and how these measurements are transformed into a **top-down world view with robot motion and heading**.
 
-The goal of this project is **perception understanding and debugging**, not training or prediction.
-
+The goal of this project is **perception understanding and debugging**.
 ---
 
 ## 📌 What This Project Shows
