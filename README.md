@@ -31,10 +31,7 @@ Ultrasonic sensors are:
 - Widely used for **collision avoidance and safety**
 
 They are **not high-resolution like LiDAR**, and therefore should **not** look like dense point clouds.
-
-This project intentionally shows:
-> what ultrasonic perception *should* look like in a real robot.
-
+ 
 ---
 
 ## 📊 Visualization Overview
@@ -46,9 +43,6 @@ This project intentionally shows:
 - Distance indicates obstacle proximity
 - Red highlights show **near obstacles**
 
-This answers:
-> *“What does the robot sense right now?”*
-
 ---
 
 ### 2️⃣ Top-Down World View (Right)
@@ -58,9 +52,6 @@ This answers:
 - Ultrasonic points projected into global coordinates
 - Highlighted obstacles within detection range
 - Circular detection boundary for safety margin
-
-This answers:
-> *“Where is the robot, where has it been, and what is blocking it?”*
 
 ---
 
