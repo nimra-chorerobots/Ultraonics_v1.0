@@ -1,5 +1,7 @@
 # Ultrasonic Perception Visualization for Mobile Robots
 
+### Interactive Ultrasonic Sensor Perception and Spatial Awareness Visualization Toolkit
+
 This repository demonstrates a **clear and interpretable ultrasonic perception layer** for a mobile robot.  
 It visualizes how **24 ultrasonic sensors** perceive obstacles around the robot and how these measurements are transformed into a **top-down world view with robot motion and heading**.
 
